@@ -1,0 +1,17 @@
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/bin/Debug/net6.0/Repository.deps.json
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/bin/Debug/net6.0/Repository.runtimeconfig.json
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/bin/Debug/net6.0/Repository.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/bin/Debug/net6.0/ref/Repository.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/bin/Debug/net6.0/Repository.pdb
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/bin/Debug/net6.0/Entities.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/bin/Debug/net6.0/Entities.pdb
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/Repository.csproj.AssemblyReference.cache
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/Repository.AssemblyInfoInputs.cache
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/Repository.AssemblyInfo.cs
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/Repository.csproj.CoreCompileInputs.cache
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/Repository.csproj.CopyComplete
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/Repository.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/ref/Repository.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/Repository.pdb
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/Repository.genruntimeconfig.cache

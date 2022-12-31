@@ -1,0 +1,15 @@
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/bin/Debug/net6.0/LoggerService.deps.json
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/bin/Debug/net6.0/LoggerService.dll
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/bin/Debug/net6.0/ref/LoggerService.dll
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/bin/Debug/net6.0/LoggerService.pdb
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/bin/Debug/net6.0/Contracts.dll
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/bin/Debug/net6.0/Contracts.pdb
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.csproj.AssemblyReference.cache
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.AssemblyInfoInputs.cache
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.AssemblyInfo.cs
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.csproj.CoreCompileInputs.cache
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.csproj.CopyComplete
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.dll
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/Debug/net6.0/ref/LoggerService.dll
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.pdb

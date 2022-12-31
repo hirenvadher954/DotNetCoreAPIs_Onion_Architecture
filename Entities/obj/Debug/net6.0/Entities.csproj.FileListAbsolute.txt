@@ -1,0 +1,12 @@
+/home/hiren/Documents/Rider/CompanyEmployees/Entities/bin/Debug/net6.0/Entities.deps.json
+/home/hiren/Documents/Rider/CompanyEmployees/Entities/bin/Debug/net6.0/Entities.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Entities/bin/Debug/net6.0/ref/Entities.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Entities/bin/Debug/net6.0/Entities.pdb
+/home/hiren/Documents/Rider/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/home/hiren/Documents/Rider/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/hiren/Documents/Rider/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/home/hiren/Documents/Rider/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/home/hiren/Documents/Rider/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/home/hiren/Documents/Rider/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Entities/obj/Debug/net6.0/ref/Entities.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Entities/obj/Debug/net6.0/Entities.pdb

@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj": {}
+  },
+  "projects": {
+    "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj",
+        "projectName": "CompanyEmployees",
+        "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj",
+        "packagesPath": "/home/hiren/.nuget/packages/",
+        "outputPath": "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hiren/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/LoggerService.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/LoggerService.csproj"
+              },
+              "/home/hiren/Documents/Rider/CompanyEmployees/Repository/Repository.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Repository/Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/hiren/Documents/Rider/CompanyEmployees/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hiren/Documents/Rider/CompanyEmployees/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Contracts/Contracts.csproj",
+        "packagesPath": "/home/hiren/.nuget/packages/",
+        "outputPath": "/home/hiren/Documents/Rider/CompanyEmployees/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hiren/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj",
+        "packagesPath": "/home/hiren/.nuget/packages/",
+        "outputPath": "/home/hiren/Documents/Rider/CompanyEmployees/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hiren/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/LoggerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/LoggerService.csproj",
+        "projectName": "LoggerService",
+        "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/LoggerService.csproj",
+        "packagesPath": "/home/hiren/.nuget/packages/",
+        "outputPath": "/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hiren/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/hiren/Documents/Rider/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Contracts/Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/hiren/Documents/Rider/CompanyEmployees/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hiren/Documents/Rider/CompanyEmployees/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Repository/Repository.csproj",
+        "packagesPath": "/home/hiren/.nuget/packages/",
+        "outputPath": "/home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hiren/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/hiren/Documents/Rider/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Contracts/Contracts.csproj"
+              },
+              "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
