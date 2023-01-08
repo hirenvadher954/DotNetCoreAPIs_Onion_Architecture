@@ -10,3 +10,6 @@
 /home/hiren/Documents/Rider/CompanyEmployees/Contracts/obj/Debug/net6.0/Contracts.dll
 /home/hiren/Documents/Rider/CompanyEmployees/Contracts/obj/Debug/net6.0/ref/Contracts.dll
 /home/hiren/Documents/Rider/CompanyEmployees/Contracts/obj/Debug/net6.0/Contracts.pdb
+/home/hiren/Documents/Rider/CompanyEmployees/Contracts/bin/Debug/net6.0/Entities.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Contracts/bin/Debug/net6.0/Entities.pdb
+/home/hiren/Documents/Rider/CompanyEmployees/Contracts/obj/Debug/net6.0/Contracts.csproj.CopyComplete

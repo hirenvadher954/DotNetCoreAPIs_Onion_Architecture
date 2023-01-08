@@ -13,3 +13,5 @@
 /home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.dll
 /home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/Debug/net6.0/ref/LoggerService.dll
 /home/hiren/Documents/Rider/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.pdb
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/bin/Debug/net6.0/Entities.dll
+/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/bin/Debug/net6.0/Entities.pdb

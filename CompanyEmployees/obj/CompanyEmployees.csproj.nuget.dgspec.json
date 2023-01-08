@@ -4,6 +4,68 @@
     "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj": {}
   },
   "projects": {
+    "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj",
+        "projectName": "CompanyEmployees.Presentation",
+        "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj",
+        "packagesPath": "/home/hiren/.nuget/packages/",
+        "outputPath": "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees.Presentation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hiren/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/Service.Contracts.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/Service.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -26,11 +88,20 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj"
+              },
               "/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/LoggerService.csproj": {
                 "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/LoggerService/LoggerService.csproj"
               },
               "/home/hiren/Documents/Rider/CompanyEmployees/Repository/Repository.csproj": {
                 "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Repository/Repository.csproj"
+              },
+              "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/Service.Contracts.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/Service.Contracts.csproj"
+              },
+              "/home/hiren/Documents/Rider/CompanyEmployees/Service/Service.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Service/Service.csproj"
               }
             }
           }
@@ -99,7 +170,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -300,6 +375,182 @@
               "version": "[7.0.1, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/Service.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/Service.Contracts.csproj",
+        "projectName": "Service.Contracts",
+        "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/Service.Contracts.csproj",
+        "packagesPath": "/home/hiren/.nuget/packages/",
+        "outputPath": "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hiren/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj"
+              },
+              "/home/hiren/Documents/Rider/CompanyEmployees/Shared/Shared.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Shared/Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/hiren/Documents/Rider/CompanyEmployees/Service/Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hiren/Documents/Rider/CompanyEmployees/Service/Service.csproj",
+        "projectName": "Service",
+        "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Service/Service.csproj",
+        "packagesPath": "/home/hiren/.nuget/packages/",
+        "outputPath": "/home/hiren/Documents/Rider/CompanyEmployees/Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hiren/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/hiren/Documents/Rider/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Contracts/Contracts.csproj"
+              },
+              "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/Service.Contracts.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/Service.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/hiren/Documents/Rider/CompanyEmployees/Shared/Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hiren/Documents/Rider/CompanyEmployees/Shared/Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Shared/Shared.csproj",
+        "packagesPath": "/home/hiren/.nuget/packages/",
+        "outputPath": "/home/hiren/Documents/Rider/CompanyEmployees/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hiren/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

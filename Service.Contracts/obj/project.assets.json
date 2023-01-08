@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      },
+      "Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "path": "../Shared/Shared.csproj",
+      "msbuildProject": "../Shared/Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Entities >= 1.0.0",
+      "Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/hiren/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/Service.Contracts.csproj",
+      "projectName": "Service.Contracts",
+      "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/Service.Contracts.csproj",
+      "packagesPath": "/home/hiren/.nuget/packages/",
+      "outputPath": "/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/hiren/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj": {
+              "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj"
+            },
+            "/home/hiren/Documents/Rider/CompanyEmployees/Shared/Shared.csproj": {
+              "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Shared/Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

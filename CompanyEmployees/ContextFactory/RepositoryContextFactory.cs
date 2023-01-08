@@ -13,7 +13,7 @@ public class RepositoryContextFactory : IDesignTimeDbContextFactory<RepositoryCo
             .AddJsonFile("appsettings.json")
             .Build();
         
-        Environment.SpecialFolder folder = Environment.SpecialFolder.LocalApplicationData;
+        Environment.SpecialFolder folder = Environment.SpecialFolder.MyVideos;
         string path = Environment.GetFolderPath(folder);
         string dbPath = Path.Join(path, "CompanyEmployees.db");
         

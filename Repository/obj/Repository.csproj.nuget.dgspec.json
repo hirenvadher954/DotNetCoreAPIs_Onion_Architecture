@@ -25,7 +25,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj": {
+                "projectPath": "/home/hiren/Documents/Rider/CompanyEmployees/Entities/Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -15,3 +15,5 @@
 /home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/ref/Repository.dll
 /home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/Repository.pdb
 /home/hiren/Documents/Rider/CompanyEmployees/Repository/obj/Debug/net6.0/Repository.genruntimeconfig.cache
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/bin/Debug/net6.0/Contracts.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Repository/bin/Debug/net6.0/Contracts.pdb

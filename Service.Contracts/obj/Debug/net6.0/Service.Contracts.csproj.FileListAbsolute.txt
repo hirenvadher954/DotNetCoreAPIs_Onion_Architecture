@@ -1,0 +1,17 @@
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/Service.Contracts.deps.json
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/Service.Contracts.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/ref/Service.Contracts.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/Service.Contracts.pdb
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/Entities.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/Entities.pdb
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.csproj.AssemblyReference.cache
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.AssemblyInfoInputs.cache
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.AssemblyInfo.cs
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.csproj.CoreCompileInputs.cache
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.csproj.CopyComplete
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/ref/Service.Contracts.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.pdb
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/Shared.dll
+/home/hiren/Documents/Rider/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/Shared.pdb
